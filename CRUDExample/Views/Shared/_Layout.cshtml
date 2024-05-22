@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+    <html>
+    <head>
+        <title>Example CRUD</title>
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+        <style>
+            * {
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            header {
+                background-color: black;
+                color: white;
+                padding: 20px 0px;
+                display: flex;
+                justify-content: flex-end;
+            }
+            ul {
+                list-style: none;
+                display: flex;
+            }
+            ul li {
+                padding: 0px 10px;
+            }
+            ul li a {
+                text-decoration: none;
+                color: black;
+                background-color:white;
+                padding:10px;
+                font-size: 20px;
+                border-radius: 5px;
+            }
+            footer {
+                position: fixed;
+                bottom: 0;
+                width: 100%;
+                padding: 30px 0px;
+                background-color: black;
+                color: white;
+            }
+            span {
+                color: white;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <ul>
+                <li><a href="/Home/Index">Color</a></li>
+                <li><a href="/Size/Index">Size</a></li>
+                <li><a href="/Characteristics/Index">Characteristics</a></li>
+                <li><a href="/Country/Index">Country</a></li>
+                <li><a href="/City/Index">City</a></li>
+            </ul>
+        </header>
+
+        <main>
+            @RenderBody();
+        </main>
+
+        <footer>
+            <div>
+                <span>Example CRUD Operations Testing Website</span>
+            </div>
+        </footer>
+    </body>
+    </html>

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\basic\\OneDrive\\Desktop\\Main\\code_fullstack\\visual-studio\\CRUDExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB6B481-215A-4D11-8BB8-E864742DE140}|CRUDExample.csproj|c:\\users\\basic\\onedrive\\desktop\\main\\code_fullstack\\visual-studio\\crudexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FB6B481-215A-4D11-8BB8-E864742DE140}|CRUDExample.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB6B481-215A-4D11-8BB8-E864742DE140}|CRUDExample.csproj|c:\\users\\basic\\onedrive\\desktop\\main\\code_fullstack\\visual-studio\\crudexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FB6B481-215A-4D11-8BB8-E864742DE140}|CRUDExample.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB6B481-215A-4D11-8BB8-E864742DE140}|CRUDExample.csproj|c:\\users\\basic\\onedrive\\desktop\\main\\code_fullstack\\visual-studio\\crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB6B481-215A-4D11-8BB8-E864742DE140}|CRUDExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB6B481-215A-4D11-8BB8-E864742DE140}|CRUDExample.csproj|c:\\users\\basic\\onedrive\\desktop\\main\\code_fullstack\\visual-studio\\crudexample\\views\\home\\size.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FB6B481-215A-4D11-8BB8-E864742DE140}|CRUDExample.csproj|solutionrelative:views\\home\\size.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB6B481-215A-4D11-8BB8-E864742DE140}|CRUDExample.csproj|c:\\users\\basic\\onedrive\\desktop\\main\\code_fullstack\\visual-studio\\crudexample\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB6B481-215A-4D11-8BB8-E864742DE140}|CRUDExample.csproj|solutionrelative:models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB6B481-215A-4D11-8BB8-E864742DE140}|CRUDExample.csproj|c:\\users\\basic\\onedrive\\desktop\\main\\code_fullstack\\visual-studio\\crudexample\\views\\home\\characteristics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FB6B481-215A-4D11-8BB8-E864742DE140}|CRUDExample.csproj|solutionrelative:views\\home\\characteristics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB6B481-215A-4D11-8BB8-E864742DE140}|CRUDExample.csproj|c:\\users\\basic\\onedrive\\desktop\\main\\code_fullstack\\visual-studio\\crudexample\\models\\characteristics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB6B481-215A-4D11-8BB8-E864742DE140}|CRUDExample.csproj|solutionrelative:models\\characteristics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB6B481-215A-4D11-8BB8-E864742DE140}|CRUDExample.csproj|c:\\users\\basic\\onedrive\\desktop\\main\\code_fullstack\\visual-studio\\crudexample\\models\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB6B481-215A-4D11-8BB8-E864742DE140}|CRUDExample.csproj|solutionrelative:models\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Size.cshtml",
+              "DocumentMoniker": "C:\\Users\\basic\\OneDrive\\Desktop\\Main\\code_fullstack\\visual-studio\\CRUDExample\\Views\\Home\\Size.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Size.cshtml",
+              "ToolTip": "C:\\Users\\basic\\OneDrive\\Desktop\\Main\\code_fullstack\\visual-studio\\CRUDExample\\Views\\Home\\Size.cshtml",
+              "RelativeToolTip": "Views\\Home\\Size.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T16:28:02.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\basic\\OneDrive\\Desktop\\Main\\code_fullstack\\visual-studio\\CRUDExample\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\basic\\OneDrive\\Desktop\\Main\\code_fullstack\\visual-studio\\CRUDExample\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T16:22:01.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\basic\\OneDrive\\Desktop\\Main\\code_fullstack\\visual-studio\\CRUDExample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\basic\\OneDrive\\Desktop\\Main\\code_fullstack\\visual-studio\\CRUDExample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:00:52.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\basic\\OneDrive\\Desktop\\Main\\code_fullstack\\visual-studio\\CRUDExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\basic\\OneDrive\\Desktop\\Main\\code_fullstack\\visual-studio\\CRUDExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T15:57:49.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\basic\\OneDrive\\Desktop\\Main\\code_fullstack\\visual-studio\\CRUDExample\\Models\\Color.cs",
+              "RelativeDocumentMoniker": "Models\\Color.cs",
+              "ToolTip": "C:\\Users\\basic\\OneDrive\\Desktop\\Main\\code_fullstack\\visual-studio\\CRUDExample\\Models\\Color.cs",
+              "RelativeToolTip": "Models\\Color.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:58:17.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Characteristics.cshtml",
+              "DocumentMoniker": "C:\\Users\\basic\\OneDrive\\Desktop\\Main\\code_fullstack\\visual-studio\\CRUDExample\\Views\\Home\\Characteristics.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Characteristics.cshtml",
+              "ToolTip": "C:\\Users\\basic\\OneDrive\\Desktop\\Main\\code_fullstack\\visual-studio\\CRUDExample\\Views\\Home\\Characteristics.cshtml",
+              "RelativeToolTip": "Views\\Home\\Characteristics.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T16:33:14.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Characteristics.cs",
+              "DocumentMoniker": "C:\\Users\\basic\\OneDrive\\Desktop\\Main\\code_fullstack\\visual-studio\\CRUDExample\\Models\\Characteristics.cs",
+              "RelativeDocumentMoniker": "Models\\Characteristics.cs",
+              "ToolTip": "C:\\Users\\basic\\OneDrive\\Desktop\\Main\\code_fullstack\\visual-studio\\CRUDExample\\Models\\Characteristics.cs",
+              "RelativeToolTip": "Models\\Characteristics.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:59:14.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Size.cs",
+              "DocumentMoniker": "C:\\Users\\basic\\OneDrive\\Desktop\\Main\\code_fullstack\\visual-studio\\CRUDExample\\Models\\Size.cs",
+              "RelativeDocumentMoniker": "Models\\Size.cs",
+              "ToolTip": "C:\\Users\\basic\\OneDrive\\Desktop\\Main\\code_fullstack\\visual-studio\\CRUDExample\\Models\\Size.cs",
+              "RelativeToolTip": "Models\\Size.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:59:42.361Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

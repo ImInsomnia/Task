@@ -1,0 +1,55 @@
+﻿@using Entities.Concrete;
+@model List<Characteristics>;
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 id="CharacteristicsHeader">Characteristics Page</h1>
+<div class="row mx-0 mt-3">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <div class="row mx-0">
+                    <div class="col-3">
+                        <a href="/Characteristics/Add" class="btn btn-success">Add</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row mt-2 mx-0">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <table class="table table-bordered table-striped table-hover">
+                    <thead class="table-success">
+                        <tr>
+                            <th colspan="2"></th>
+                            <th>ID</th>
+                            <th>Name</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var data in Model)
+                        {
+                            <tr>
+                                <td>
+                                    <a class="btn btn-success" href="/Characteristics/Edit/@data.ID">Edit</a>
+                                </td>
+                                <td>
+                                    <a class="btn btn-danger" href="/Characteristics/Delete/@data.ID">Delete</a>
+                                </td>
+                                <td>@data.ID</td>
+                                <td>@data.Name</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

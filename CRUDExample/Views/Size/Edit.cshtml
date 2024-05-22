@@ -1,0 +1,31 @@
+﻿@using Entities.Concrete
+@model Size
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row mx-0">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <form method="post" asp-controller="Size" asp-action="Edit">
+                    <div class="row mx-0">
+                        <div class="col-6">
+                            <label for="name">Name:</label>
+                        </div>
+                        <div class="col-6">
+                            <input type="hidden" value="@Model.ID" name="ID" />
+                            <input type="text" value="@Model.Name" name="Name" class="form-control" id="name" />
+                        </div>
+                    </div>
+                    <div class="row mt-2">
+                        <div class="col-6 offset-6">
+                            <input type="submit" class="btn btn-primary" value="Submit" />
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

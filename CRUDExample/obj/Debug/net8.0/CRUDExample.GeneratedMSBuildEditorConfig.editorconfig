@@ -1,0 +1,95 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CRUDExample
+build_property.RootNamespace = CRUDExample
+build_property.ProjectDir = C:\Users\basic\OneDrive\Desktop\Main\code_fullstack\visual-studio\NEWFOLDERFORCRUDEXAMPLE\Solution1\CRUDExample\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\basic\OneDrive\Desktop\Main\code_fullstack\visual-studio\NEWFOLDERFORCRUDEXAMPLE\Solution1\CRUDExample
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/basic/OneDrive/Desktop/Main/code_fullstack/visual-studio/NEWFOLDERFORCRUDEXAMPLE/Solution1/CRUDExample/Views/Characteristics/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmFjdGVyaXN0aWNzXEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/basic/OneDrive/Desktop/Main/code_fullstack/visual-studio/NEWFOLDERFORCRUDEXAMPLE/Solution1/CRUDExample/Views/Characteristics/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmFjdGVyaXN0aWNzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/basic/OneDrive/Desktop/Main/code_fullstack/visual-studio/NEWFOLDERFORCRUDEXAMPLE/Solution1/CRUDExample/Views/Characteristics/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmFjdGVyaXN0aWNzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/basic/OneDrive/Desktop/Main/code_fullstack/visual-studio/NEWFOLDERFORCRUDEXAMPLE/Solution1/CRUDExample/Views/Characteristics/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmFjdGVyaXN0aWNzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/basic/OneDrive/Desktop/Main/code_fullstack/visual-studio/NEWFOLDERFORCRUDEXAMPLE/Solution1/CRUDExample/Views/City/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/basic/OneDrive/Desktop/Main/code_fullstack/visual-studio/NEWFOLDERFORCRUDEXAMPLE/Solution1/CRUDExample/Views/City/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/basic/OneDrive/Desktop/Main/code_fullstack/visual-studio/NEWFOLDERFORCRUDEXAMPLE/Solution1/CRUDExample/Views/City/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/basic/OneDrive/Desktop/Main/code_fullstack/visual-studio/NEWFOLDERFORCRUDEXAMPLE/Solution1/CRUDExample/Views/Country/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/basic/OneDrive/Desktop/Main/code_fullstack/visual-studio/NEWFOLDERFORCRUDEXAMPLE/Solution1/CRUDExample/Views/Country/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/basic/OneDrive/Desktop/Main/code_fullstack/visual-studio/NEWFOLDERFORCRUDEXAMPLE/Solution1/CRUDExample/Views/Country/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/basic/OneDrive/Desktop/Main/code_fullstack/visual-studio/NEWFOLDERFORCRUDEXAMPLE/Solution1/CRUDExample/Views/Home/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/basic/OneDrive/Desktop/Main/code_fullstack/visual-studio/NEWFOLDERFORCRUDEXAMPLE/Solution1/CRUDExample/Views/Home/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/basic/OneDrive/Desktop/Main/code_fullstack/visual-studio/NEWFOLDERFORCRUDEXAMPLE/Solution1/CRUDExample/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/basic/OneDrive/Desktop/Main/code_fullstack/visual-studio/NEWFOLDERFORCRUDEXAMPLE/Solution1/CRUDExample/Views/Size/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l6ZVxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/basic/OneDrive/Desktop/Main/code_fullstack/visual-studio/NEWFOLDERFORCRUDEXAMPLE/Solution1/CRUDExample/Views/Size/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l6ZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/basic/OneDrive/Desktop/Main/code_fullstack/visual-studio/NEWFOLDERFORCRUDEXAMPLE/Solution1/CRUDExample/Views/Size/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l6ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/basic/OneDrive/Desktop/Main/code_fullstack/visual-studio/NEWFOLDERFORCRUDEXAMPLE/Solution1/CRUDExample/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-w3gsgrhlth

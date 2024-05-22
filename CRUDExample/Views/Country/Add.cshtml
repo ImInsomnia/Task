@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Add";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row mx-0">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <form method="post" asp-controller="Country" asp-action="Add">
+                    <div class="row mx-0">
+                        <div class="col-6">
+                            <label for="name">Name:</label>
+                        </div>
+                        <div class="col-6">
+                            <input type="text" name="Name" class="form-control" id="name" />
+                        </div>
+                    </div>
+                    <div class="row mt-2">
+                        <div class="col-6 offset-6">
+                            <input type="submit" class="btn btn-primary" value="Submit" />
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
